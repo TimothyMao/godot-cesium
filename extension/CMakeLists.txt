@@ -27,7 +27,7 @@ endif()
 # endif()
 
 # Main project information
-project( GDCesium
+project( cesiumforgodot
     LANGUAGES
         CXX C
     VERSION
